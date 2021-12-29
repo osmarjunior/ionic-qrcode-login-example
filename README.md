@@ -15,7 +15,11 @@ Example of login by QrCode like WhatsApp Web
 ## Ionic QrCode Reader
 - Go to **ionic-qrcode-reader** folder
 - Run `npm install`
+
+### Web
 - Run `npm start`
+
+- It uses native plugin to read QrCode, you have to test it in a device
 - More infos to run in devices: [https://ionicframework.com/docs/v3/intro/deploying/](https://ionicframework.com/docs/v3/intro/deploying/)
 ### Android
 
