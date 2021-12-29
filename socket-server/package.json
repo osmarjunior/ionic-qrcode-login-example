@@ -1,0 +1,17 @@
+{
+  "name": "tcpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "sunilk",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.0.0",
+    "socket.io": "^4.2.0",
+    "uuid": "^8.3.2"
+  }
+}
